@@ -1,11 +1,11 @@
 site_name: Name of your website
 site_description: Tell people what this website is about
 site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_url: 'https://ulisesjiu.github.io/FOSSF24_website/'
 
 # Repository
 repo_name: The repository name
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_url: 'https://github.com/ulisesjiu/FOSSF24_website'
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
@@ -51,6 +51,7 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- CV: 
 
 # Extra Plugins
 plugins:
