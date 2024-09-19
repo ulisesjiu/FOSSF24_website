@@ -1,0 +1,1 @@
+# FOSS-mkdocs-template
