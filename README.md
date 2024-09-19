@@ -1,3 +1,3 @@
 # FOSS-mkdocs-template
 
-Import or Fork this repository
+Import or Fork this repository.
