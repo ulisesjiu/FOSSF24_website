@@ -5,7 +5,7 @@ site_url: 'https://foss.cyverse.org'
 
 # Repository
 repo_name: The repository name
-repo_url: The repository URL
+repo_url: 'https://github.com/CyVerse-learning-materials/foss'
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
